@@ -10,6 +10,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "http-server": "^14.1.1",
+    "svelte": "^3.44.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {
